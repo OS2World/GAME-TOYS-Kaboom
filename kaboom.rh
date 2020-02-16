@@ -1,0 +1,18 @@
+#define ID_RESOURCE	1
+#define IDR_CIRCUIT	1
+#define IDR_HOLE        2
+#define IDR_MUSH1       3
+#define IDR_MUSH2       4
+#define IDR_MUSH3       5
+#define IDR_MUSH4       6
+#define IDR_MUSH5       7
+#define IDR_MUSH6       8
+#define IDR_MUSHM1      9
+#define IDR_MUSHM2      10
+#define IDR_MUSHM3      11
+#define IDR_MUSHM4      12
+#define IDR_MUSHM5      13
+#define IDR_MUSHM6      14
+#define MAX_MUSH  5 /* highest element in hbmmush & hbmmushm arrays */
+
+
